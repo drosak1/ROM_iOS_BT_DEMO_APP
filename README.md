@@ -1,3 +1,3 @@
 ## Zrzut ekranu
 
-![Aplikacja](images/app_screen.png)
+![Aplikacja](app_screen.png)
